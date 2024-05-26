@@ -7,13 +7,6 @@ const QRPortalWeb = require('@bot-whatsapp/portal')
 const BaileysProvider = require('@bot-whatsapp/provider/baileys')
 const JsonFileAdapter = require('@bot-whatsapp/database/json')
 
-{/*const promo = async () => {
-    const config = {
-        method: 'get',
-        url: 'https://back-vitalfix.onrender.com/api/v1/promotions',
-    }
-}*/}
-
 const flowVolver = addKeyword(['0', 'atras', 'atrás', 'cero']).addAction(
     [
         'Volviendo al menú principal...'
