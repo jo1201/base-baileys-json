@@ -1,0 +1,534 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '584245560065@s.whatsapp.net',
+    fromMe: false,
+    id: '54DD302F8FE897097B3DD240D403B070',
+    participant: undefined
+  },
+  messageTimestamp: 1716747833,
+  pushName: 'Josué Faneittes',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '584245560065'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584245560065@s.whatsapp.net',
+    fromMe: false,
+    id: 'C58C6AE0D3433E256D19F61B9A9B026A',
+    participant: undefined
+  },
+  messageTimestamp: 1716747864,
+  pushName: 'Josué Faneittes',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '584245560065'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a53e563b-4f11-48c5-a254-4b17bb552962',
+  keyword: 'key_3b7b949e-0e8a-45c3-b9f2-3056184873f0',
+  answer: '🙌 Hola bienvenido al Asistente Virtual de *VitalFix*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0f5f4cc15b4ffa2267dfdddadee6e49a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4e566a14-1fc2-484b-a591-146d2c1e8f60',
+  keyword: 'ans_a53e563b-4f11-48c5-a254-4b17bb552962',
+  answer: '¿Qué deseas hacer?\n' +
+    '👉 *1*  ¿Quiénes son? 🤔\n' +
+    '👉 *2*  ¿Qué servicios ofrecen? 📋\n' +
+    '👉 *3*  ¿Dónde se encuentran\n' +
+    'ubicados? 📍\n' +
+    '👉 *4*  Quiero hablar con soporte\n' +
+    'técnico ⚙️\n' +
+    '👉 *5*  Salir de este chat 👋',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '713c38dc555b874ba98a10f419d596da'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584245560065@s.whatsapp.net',
+    fromMe: false,
+    id: '2A06DD41264AAFB54A3FCEDDF2A89297',
+    participant: undefined
+  },
+  messageTimestamp: 1716747883,
+  pushName: 'Josué Faneittes',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '584245560065'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_89cbee67-1584-4911-82f1-05d9e309d6a7',
+  keyword: 'key_6cd81eb2-d74f-459f-a157-1be583471ecf',
+  answer: 'Somos una empresa especializada en la reparación, instalación y mantenimiento de equipos médicos. Contamos con un equipo de profesionales altamente calificados y con amplia experiencia en el sector, lo que nos permite ofrecer un servicio integral y de calidad a nuestros clientes.\n' +
+    '\n' +
+    'Nuestra misión es brindar a nuestros clientes soluciones eficientes y oportunas a sus necesidades de reparación, instalación y mantenimiento de equipos médicos, contribuyendo así al buen funcionamiento de las instituciones de salud y al bienestar de sus pacientes.\n' +
+    '\n' +
+    'Nuestra visión es ser la empresa líder en el sector de reparación, instalación y mantenimiento de equipos médicos en la región, reconocida por la calidad de nuestros servicios, la atención personalizada a nuestros clientes y nuestro compromiso con la seguridad y la eficiencia.\n' +
+    '\n' +
+    '*0* Para volver al menú anterior.\n' +
+    '\n' +
+    '*1* Para finalizar este chat.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9c55b30209bc199326b1e3ab1036892c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584245560065@s.whatsapp.net',
+    fromMe: false,
+    id: 'E70887ADB87D2CD9E2858676630CDE6B',
+    participant: undefined
+  },
+  messageTimestamp: 1716747888,
+  pushName: 'Josué Faneittes',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '584245560065'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584245560065@s.whatsapp.net',
+    fromMe: false,
+    id: '930D66FFFBA05EB31A36DA22A29E63A5',
+    participant: undefined
+  },
+  messageTimestamp: 1716747890,
+  pushName: 'Josué Faneittes',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '584245560065'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a53e563b-4f11-48c5-a254-4b17bb552962',
+  keyword: 'key_3b7b949e-0e8a-45c3-b9f2-3056184873f0',
+  answer: '🙌 Hola bienvenido al Asistente Virtual de *VitalFix*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0f5f4cc15b4ffa2267dfdddadee6e49a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4e566a14-1fc2-484b-a591-146d2c1e8f60',
+  keyword: 'ans_a53e563b-4f11-48c5-a254-4b17bb552962',
+  answer: '¿Qué deseas hacer?\n' +
+    '👉 *1*  ¿Quiénes son? 🤔\n' +
+    '👉 *2*  ¿Qué servicios ofrecen? 📋\n' +
+    '👉 *3*  ¿Dónde se encuentran\n' +
+    'ubicados? 📍\n' +
+    '👉 *4*  Quiero hablar con soporte\n' +
+    'técnico ⚙️\n' +
+    '👉 *5*  Salir de este chat 👋',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '713c38dc555b874ba98a10f419d596da'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584245560065@s.whatsapp.net',
+    fromMe: false,
+    id: '8099CA9B6F04B6443075533408CEEB23',
+    participant: undefined
+  },
+  messageTimestamp: 1716747893,
+  pushName: 'Josué Faneittes',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '584245560065'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3917490d-fcec-452c-82f2-7c8330e7b22d',
+  keyword: 'key_f5039d2d-b293-4a1d-809e-e4da209bc7a5',
+  answer: 'Contamos con una amplia gama de servicios para atender las necesidades de nuestros clientes.\n' +
+    '\n' +
+    '1. Reparación de equipos médicos de todas las marcas y modelos.\n' +
+    '\n' +
+    '2. Instalación de equipos médicos nuevos y usados.\n' +
+    '\n' +
+    '3. Mantenimiento preventivo y correctivo de equipos médicos.\n' +
+    '\n' +
+    '*0* Para volver al menú anterior.\n' +
+    '\n' +
+    '*1* Para finalizar este chat.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '07dc4f5df7832cecfc078a21e8139ff7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584245560065@s.whatsapp.net',
+    fromMe: false,
+    id: 'A26A3D0308CBEA83436066223FC5C915',
+    participant: undefined
+  },
+  messageTimestamp: 1716747905,
+  pushName: 'Josué Faneittes',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '584245560065'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584245560065@s.whatsapp.net',
+    fromMe: false,
+    id: 'D6E993DD5676BCAAD00BC3ADF9060EFD',
+    participant: undefined
+  },
+  messageTimestamp: 1716747908,
+  pushName: 'Josué Faneittes',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '584245560065'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a53e563b-4f11-48c5-a254-4b17bb552962',
+  keyword: 'key_3b7b949e-0e8a-45c3-b9f2-3056184873f0',
+  answer: '🙌 Hola bienvenido al Asistente Virtual de *VitalFix*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0f5f4cc15b4ffa2267dfdddadee6e49a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4e566a14-1fc2-484b-a591-146d2c1e8f60',
+  keyword: 'ans_a53e563b-4f11-48c5-a254-4b17bb552962',
+  answer: '¿Qué deseas hacer?\n' +
+    '👉 *1*  ¿Quiénes son? 🤔\n' +
+    '👉 *2*  ¿Qué servicios ofrecen? 📋\n' +
+    '👉 *3*  ¿Dónde se encuentran\n' +
+    'ubicados? 📍\n' +
+    '👉 *4*  Quiero hablar con soporte\n' +
+    'técnico ⚙️\n' +
+    '👉 *5*  Salir de este chat 👋',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '713c38dc555b874ba98a10f419d596da'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584245560065@s.whatsapp.net',
+    fromMe: false,
+    id: '8B0132F19B604FF2DCC022A580145C3D',
+    participant: undefined
+  },
+  messageTimestamp: 1716747911,
+  pushName: 'Josué Faneittes',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '584245560065'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a122ea25-9952-4838-81ed-658f8a4e95cf',
+  keyword: 'key_a4f85fb9-dbe5-42fb-be19-b14479e4c30e',
+  answer: 'Nuestras oficinas se encuentran ubicadas en la Avenida Venezuela, esquina de la calle 10, local B-06\n' +
+    '\n' +
+    'Nuestro horario de atención es: Lunes a viernes de 8:00 AM a 5:00 PM\n' +
+    '\n' +
+    '*0* Para volver al menú anterior.\n' +
+    '\n' +
+    '*1* Para finalizar este chat.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '85a4f2bdcc99e7c230042d19d9866840'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584245560065@s.whatsapp.net',
+    fromMe: false,
+    id: '4A7CF631B8C4DE5A3457E90BBEF20937',
+    participant: undefined
+  },
+  messageTimestamp: 1716747917,
+  pushName: 'Josué Faneittes',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '584245560065'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584245560065@s.whatsapp.net',
+    fromMe: false,
+    id: '6B23CA452796AEC3F6DC8E4E7052030B',
+    participant: undefined
+  },
+  messageTimestamp: 1716747919,
+  pushName: 'Josué Faneittes',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '584245560065'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a53e563b-4f11-48c5-a254-4b17bb552962',
+  keyword: 'key_3b7b949e-0e8a-45c3-b9f2-3056184873f0',
+  answer: '🙌 Hola bienvenido al Asistente Virtual de *VitalFix*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0f5f4cc15b4ffa2267dfdddadee6e49a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4e566a14-1fc2-484b-a591-146d2c1e8f60',
+  keyword: 'ans_a53e563b-4f11-48c5-a254-4b17bb552962',
+  answer: '¿Qué deseas hacer?\n' +
+    '👉 *1*  ¿Quiénes son? 🤔\n' +
+    '👉 *2*  ¿Qué servicios ofrecen? 📋\n' +
+    '👉 *3*  ¿Dónde se encuentran\n' +
+    'ubicados? 📍\n' +
+    '👉 *4*  Quiero hablar con soporte\n' +
+    'técnico ⚙️\n' +
+    '👉 *5*  Salir de este chat 👋',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '713c38dc555b874ba98a10f419d596da'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584245560065@s.whatsapp.net',
+    fromMe: false,
+    id: 'DCA524793146910F4D2284DA689614AD',
+    participant: undefined
+  },
+  messageTimestamp: 1716747925,
+  pushName: 'Josué Faneittes',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '584245560065'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b0e4d9ab-7a91-4b2f-8b28-984fb18f9e39',
+  keyword: 'key_b7d84d45-4b31-42f1-bcd3-8500516bfd70',
+  answer: '¡Claro! Nuestro personal de soporte técnico está disponble para atender tus dudas de lunes a viernes en horario de 8:00 AM a 5:00 PM\n' +
+    '\n' +
+    'Los contactos son: \n' +
+    '\n' +
+    '📞 +584245560065\n' +
+    '📞 +584264554652\n' +
+    '📞 +584127624698',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '88b7853c038529b7483fef7d3b2b4b4d'
+}
